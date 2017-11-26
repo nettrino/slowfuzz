@@ -1,0 +1,7 @@
+
+ Performance counter stats for './main_driver random_out/91580' (10 runs):
+
+         1,304,568      instructions:u             ( +-  0.00% )
+
+       0.001037225 seconds time elapsed                                          ( +-  1.64% )
+
